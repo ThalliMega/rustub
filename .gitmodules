@@ -1,0 +1,6 @@
+[submodule "rustub-storage"]
+	url = ../rustub-storage.git
+	path = rustub-storage
+[submodule "rust-wasm"]
+	path = rust-wasm
+	url = ../rust-wasm.git
